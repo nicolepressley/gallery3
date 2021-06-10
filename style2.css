@@ -1,0 +1,20 @@
+h2 {
+	color: #FF5900;
+	text-align: center;
+}
+
+.container {
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+}
+
+img {
+	width: 350px;
+	height: 525px;
+	margin: 10px;
+}
+
+img:hover {
+	transform: scale(1.2);
+}
